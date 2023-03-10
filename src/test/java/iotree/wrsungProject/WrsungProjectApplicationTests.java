@@ -1,0 +1,13 @@
+package iotree.wrsungProject;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+//@SpringBootTest
+class WrsungProjectApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
